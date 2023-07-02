@@ -1,0 +1,222 @@
+[
+  {
+    "Id": 1,
+    "productId": "CLTH001",
+    "Title": "Men's T-shirt",
+    "Price": 20.99,
+    "styles": "top",
+    "Color": "Blue",
+    "colorsAvailable": ["Blue", "White", "Black"],
+    "Size": "M",
+    "SizesAvailable": ["S", "M", "L", "XL"],
+    "availabillity": true,
+    "quantityAvailable": 100,
+    "arrivalDate": "2022-04-01",
+    "parentBrandName": "Fashion Co.",
+    "discountAvailable": false,
+    "discountPrice": null,
+    "otherImages": [
+      {
+        "index": 1,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/77038.jpg?alt=media&token=75a90c39-9a6c-40aa-8a30-461542de01b0"
+      },
+      {
+        "index": 2,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/-strawberry-printed-flap-dress-ref29243-37-transformed.jpeg?alt=media&token=87e68c62-58ee-498f-865b-b1e73d39cdf8"
+      },
+      {
+        "index": 3,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/-strawberry-printed-flap-dress-ref29243-37_(1)-transformed.jpeg?alt=media&token=2516d7b4-73bb-4f70-993b-68c3dc565c26"
+      }
+    ],
+    "previewImage": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74956%20(1).jpg?alt=media&token=535458a2-01a3-4216-b89b-2cfcc5445c5e"
+  },
+  {
+    "Id": 2,
+    "productId": "CLTH002",
+    "Title": "Women's Blouse",
+    "Price": 34.99,
+    "Color": "Red",
+    "styles": "bottom",
+    "colorsAvailable": ["Red", "White", "Black"],
+    "Size": "S",
+    "SizesAvailable": ["S", "M", "L"],
+    "availabillity": true,
+    "quantityAvailable": 50,
+    "arrivalDate": "2022-04-02",
+    "parentBrandName": "Fashion Co.",
+    "discountAvailable": true,
+    "discountPrice": 29.99,
+    "otherImages": [
+      {
+        "index": 1,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74957.jpg?alt=media&token=d99299fc-b34f-474b-a705-d44b287e788c"
+      },
+      {
+        "index": 2,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74956%20(1).jpg?alt=media&token=535458a2-01a3-4216-b89b-2cfcc5445c5e"
+      },
+      {
+        "index": 3,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74958.jpg?alt=media&token=34235303-7dec-4b52-b810-5f6c8f9b4fc3"
+      }
+    ],
+    "previewImage": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/80543.jpg?alt=media&token=a678fd15-9eda-42d6-8e7c-3a1bba49758c"
+  },
+  {
+    "Id": 3,
+    "productId": "CLTH003",
+    "Title": "Men's Jeans",
+    "Price": 49.99,
+    "Color": "Blue",
+    "styles": "overall",
+    "colorsAvailable": ["Blue", "Black"],
+    "Size": "L",
+    "SizesAvailable": ["S", "M", "L", "XL"],
+    "availabillity": true,
+    "quantityAvailable": 80,
+    "arrivalDate": "2022-04-03",
+    "parentBrandName": "Denim Co.",
+    "discountAvailable": false,
+    "discountPrice": null,
+    "otherImages": [
+      {
+        "index": 1,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/77036.jpg?alt=media&token=d32ee9cc-d974-46d4-88dd-45e6758fe28b"
+      },
+      {
+        "index": 2,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/77037.jpg?alt=media&token=ff82be2b-e1a3-4b1a-93b0-15b31dbf1115"
+      }
+    ],
+    "previewImage": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/-strawberry-printed-flap-dress-ref29243-37_(1)-transformed.jpeg?alt=media&token=2516d7b4-73bb-4f70-993b-68c3dc565c26"
+  },
+  {
+    "Id": 4,
+    "productId": "CLTH004",
+    "Title": "Women's Dress",
+    "Price": 59.99,
+    "Color": "Yellow",
+    "styles": "top",
+    "colorsAvailable": ["Yellow", "Black"],
+    "Size": "S",
+    "SizesAvailable": ["S", "M"],
+    "availabillity": true,
+    "quantityAvailable": 60,
+    "arrivalDate": "2022-04-04",
+    "parentBrandName": "Fashion Co.",
+    "discountAvailable": true,
+    "discountPrice": 49.99,
+    "previewImage": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/set-top-trousers-auri-ref332460-34_(2)-transformed.jpeg?alt=media&token=63d1333d-faa6-441d-a74f-89ddaf6e03b3",
+    "otherImages": [
+      {
+        "index": 1,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/75066%20(1).jpg?alt=media&token=55cd3ce5-2f3f-4842-92f2-8a337f482bdc"
+      },
+      {
+        "index": 2,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74956%20(1).jpg?alt=media&token=535458a2-01a3-4216-b89b-2cfcc5445c5e"
+      },
+      {
+        "index": 3,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74958.jpg?alt=media&token=34235303-7dec-4b52-b810-5f6c8f9b4fc3"
+      }
+    ]
+  },
+  {
+    "Id": 5,
+    "productId": "CLTH005",
+    "Title": "Men's Jacket",
+    "Price": 89.99,
+    "Color": "Brown",
+    "colorsAvailable": ["Brown", "Black"],
+    "Size": "M",
+    "SizesAvailable": ["M", "L", "XL"],
+    "availabillity": true,
+    "quantityAvailable": 40,
+    "styles": "two-piece",
+    "arrivalDate": "2022-04-05",
+    "parentBrandName": "Fashion Co.",
+    "discountAvailable": false,
+    "discountPrice": null,
+    "previewImage": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/83260%20(1).jpg?alt=media&token=939d47fa-9d2b-4bca-9fc5-8712409c8c53",
+    "otherImages": [
+      {
+        "index": 1,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/82437%20(1).jpg?alt=media&token=d1180cb0-1ce9-4ac3-8bec-8a1808b2d702"
+      },
+      {
+        "index": 2,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74956%20(1).jpg?alt=media&token=535458a2-01a3-4216-b89b-2cfcc5445c5e"
+      },
+      {
+        "index": 3,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74958.jpg?alt=media&token=34235303-7dec-4b52-b810-5f6c8f9b4fc3"
+      }
+    ]
+  },
+  {
+    "Id": 6,
+    "productId": "SHOE001",
+    "Title": "Women's Running Shoes",
+    "Price": 89.99,
+    "Color": "Pink",
+    "styles": "bottom",
+    "colorsAvailable": ["Pink", "Black", "White"],
+    "Size": "8",
+    "SizesAvailable": ["6", "7", "8", "9", "10"],
+    "availabillity": true,
+    "quantityAvailable": 30,
+    "arrivalDate": "2022-04-06",
+    "parentBrandName": "Footwear Co.",
+    "discountAvailable": true,
+    "discountPrice": 69.99,
+    "otherImages": [
+      {
+        "index": 1,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/82438.jpg?alt=media&token=edf46d7b-4b68-4453-af6a-ce5327b55870"
+      },
+      {
+        "index": 2,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74956%20(1).jpg?alt=media&token=535458a2-01a3-4216-b89b-2cfcc5445c5e"
+      },
+      {
+        "index": 3,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74958.jpg?alt=media&token=34235303-7dec-4b52-b810-5f6c8f9b4fc3"
+      }
+    ],
+    "previewImage": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/77651.jpg?alt=media&token=599f12d0-1fc2-4ba2-8da2-408dfbe5b58d"
+  },
+  {
+    "Id": 7,
+    "productId": "ACC001",
+    "Title": "Women's Sunglasses",
+    "Price": 24.99,
+    "Color": "Black",
+    "colorsAvailable": ["Black", "Brown"],
+    "Size": "One Size",
+    "SizesAvailable": ["One Size"],
+    "availabillity": true,
+    "styles": "top",
+    "quantityAvailable": 60,
+    "arrivalDate": "2022-04-07",
+    "parentBrandName": "Accessories Co.",
+    "discountAvailable": false,
+    "discountPrice": null,
+    "otherImages": [
+      {
+        "index": 1,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/80541%20(1).jpg?alt=media&token=5fc1fab8-1460-42fd-8c0a-0678d1d8957a"
+      },
+      {
+        "index": 2,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74956%20(1).jpg?alt=media&token=535458a2-01a3-4216-b89b-2cfcc5445c5e"
+      },
+      {
+        "index": 3,
+        "url": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/74958.jpg?alt=media&token=34235303-7dec-4b52-b810-5f6c8f9b4fc3"
+      }
+    ],
+    "previewImage": "https://firebasestorage.googleapis.com/v0/b/ruche2.appspot.com/o/77650%20(1).jpg?alt=media&token=3141468c-a01c-497e-8fa4-29cf584794c1"
+  }
+]
